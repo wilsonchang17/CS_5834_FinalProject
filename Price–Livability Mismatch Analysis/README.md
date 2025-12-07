@@ -109,6 +109,8 @@ Top growth ZIPs are rural or exurban with low livability. Growth appears afforda
 **Observation:**  
 High-livability downtown DC areas show minimal or negative price growth.
 
+### 5Y
+![Growth vs Livability](UC/Top5_Bottom5_5Y.png)
 ---
 
 ## 10-Year Growth Results
@@ -169,6 +171,8 @@ Long-term performance remains dominated by rural, low-livability ZIP codes.
 **Observation:**  
 Downtown DC consistently underperforms in long-term growth.
 
+### 10Y
+![Growth vs Livability](UC/Top5_Bottom5_10Y.png)
 ---
 
 ## Comparative Insights (5Y vs 10Y)
@@ -196,20 +200,6 @@ Instead, appreciation is influenced by:
 - Suburban/exurban migration  
 - Redevelopment and land availability  
 - Market pressures unrelated to everyday amenities
-
----
-
-## Output Files Generated
-
-| File | Description |
-|------|-------------|
-| Growth_5Y_Ranking.csv | Full 5-year growth ranking |
-| Growth_10Y_Ranking.csv | Full 10-year growth ranking |
-| Top5_Bottom5_5Y.png | Visualization |
-| Top5_Bottom5_10Y.png | Visualization |
-
----
-
 
 
 ```md
