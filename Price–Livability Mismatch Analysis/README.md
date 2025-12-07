@@ -27,14 +27,16 @@ Interpretation:
 
 ---
 
-# 📈 3. Results
+## **3. Results**
 
-## Price vs Livability Regression
+### Price vs Livability Regression
 ![Price vs Livability](UC/price_vs_livability.png)
 
-## Price vs Housing Matrix
+### Price vs Housing Matrix
 ![Price vs Housing](UC/housing_matrix_residual_based.png)
 
-## Residual Distribution
+### Residual Distribution
 ![Residual Distribution](UC/residual_distribution.png)
+
+
 ```md
